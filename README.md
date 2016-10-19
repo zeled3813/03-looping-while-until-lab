@@ -15,6 +15,10 @@ First, we'll write a while loop that will continue to `puts` the phrase "Wingard
 
 Then, we'll solve this again by using an `until` loop. It will `puts` the phrase "Wingardium Leviosa" until the levitation force is equal to `10`, incrementing the levitation force by `1` each time we `puts` the phrase.
 
+## Syntax
+
+Sometimes you need to learn proper syntax from resources that already exist on the internet.  Learn about [**while** and **until** on tutorialspoint](https://www.tutorialspoint.com/ruby/ruby_loops.htm).  Ignore the `$` symbols.
+
 ## Instructions
 
 1. Run the test suite in this lab to get started.
@@ -26,5 +30,3 @@ Fill out the content of the `using_while` method so that calling it will `puts` 
 Fill out the content of the `using_until` method to `puts` the desired phrase, "Wingardium Leviosa", until our levitation force equals `10`. Remember, every time you `puts` the phrase, you should increment your levitation force by `1`.
 
 **Hint: If you get stuck an infinite loop when you run your tests or your code, you can abort the test run or code by pressing `CONTROL+C` on your keyboard.**
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/looping-while-until' title='The while and until Constructs'>The while and until Constructs</a> on Learn.co and start learning to code for free.</p>
